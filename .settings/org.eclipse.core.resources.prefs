@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vnteleco/com/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/vnteleco/com/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/vnteleco/com/controller/IndexController.java=UTF-8
+encoding//src/main/java/vnteleco/com/controller/LoginController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/website/change_password.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/website/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/website/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/website/login.jsp=UTF-8

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CallbotWebsite:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CallbotWebsite</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CallbotWebsite.war">
+      <element id="artifact" artifact-name="CallbotWebsite:war exploded" />
+    </root>
+  </artifact>
+</component>
